@@ -13,7 +13,7 @@ ProtoPaint is a advanced paint application with both pixel and vector graphic ed
 - Huge SpaceX fan
 - Favorite sport is Cross Country
 - Enjoy developing realtime multiplayer apps and games
-- I started programming around 2011-2012
+- Started programming around 2011-2012
 
 <!--
 **maxdevos49/maxdevos49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
