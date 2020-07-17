@@ -8,6 +8,8 @@ ProtoPaint is a advanced paint application with both pixel and vector graphic ed
 ### I'm currently learning
 - Aspect Oriented Programming(AOP)
 - Typescript Decorators
+- Native Web Components
+- Observables/Reactive programming
 
 ### Fun facts
 - Huge SpaceX fan
