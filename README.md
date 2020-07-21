@@ -10,6 +10,7 @@ ProtoPaint is a advanced paint application with both pixel and vector graphic ed
 - Typescript Decorators
 - Native Web Components
 - Observables/Reactive programming
+- Test Driven Development
 
 ### Fun facts
 - Huge SpaceX fan
