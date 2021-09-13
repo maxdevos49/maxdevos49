@@ -11,5 +11,5 @@ ProtopaintV2 is a continuation of multiple attempts at making a large scale pain
 
 ### Fun facts
 - Huge SpaceX fan
-- Enjoy developing realtime multiplayer apps and games
-- Started programming around 2011-2012
+- Enjoy developing large systems with many connected pieces like client/server applications. 
+- Started programming around 2011
